@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3df257f-236f-45d3-b56c-4d7a664ba004" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/MathMethod.java" afterPath="$PROJECT_DIR$/src/NumberAndMathMethod.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,12 +79,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberAndMathMethod.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumberAndMathMethod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NumberAndMathMethod.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -119,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/PrintDiamond.java" />
         <option value="$PROJECT_DIR$/src/MathMethod.java" />
         <option value="$PROJECT_DIR$/src/NumberAndMathMethod.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -318,7 +332,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521633658527</updated>
       <workItem from="1521633660172" duration="2088000" />
-      <workItem from="1521635787654" duration="9965000" />
+      <workItem from="1521635787654" duration="10214000" />
     </task>
     <task id="LOCAL-00001" summary="basic grammar">
       <created>1521638947922</created>
@@ -341,11 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521646386317</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rename MathMethod">
+      <created>1521646594771</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521646594771</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12053000" />
+    <option name="totallyTimeSpent" value="12302000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -399,7 +420,8 @@
     <MESSAGE value="basic grammar" />
     <MESSAGE value="print diamond" />
     <MESSAGE value="try Math method" />
-    <option name="LAST_COMMIT_MESSAGE" value="try Math method" />
+    <MESSAGE value="rename MathMethod" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename MathMethod" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -476,6 +498,17 @@
         <state relative-caret-position="252">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
