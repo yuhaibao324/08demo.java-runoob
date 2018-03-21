@@ -5,7 +5,7 @@ import java.util.SortedMap;
  * @date 2018/3/21 22:26
  * @description
  */
-public class MathMethod {
+public class NumberAndMathMethod {
     public static void main(String[] args) {
 
         // xxxValue(), return the value of a Number object with xxx type
