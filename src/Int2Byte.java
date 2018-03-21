@@ -1,9 +1,9 @@
 /**
  * @author allenwhm
- * @date 2018/3/21 20:18
+ * @date 2018/3/21 21:17
  * @description
  */
-public class Test {
+public class Int2Byte {
     public static void main(String[] args) {
         int i = 128;
         byte b = (byte) i;
