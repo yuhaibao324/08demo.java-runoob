@@ -32,8 +32,8 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="378">
+              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -272,7 +272,7 @@
       <workItem from="1521633660172" duration="2088000" />
       <workItem from="1521635787654" duration="11758000" />
       <workItem from="1521733480582" duration="1254000" />
-      <workItem from="1521818653456" duration="41000" />
+      <workItem from="1521818653456" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="basic grammar">
       <created>1521638947922</created>
@@ -330,11 +330,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521733572364</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="learn webpack + vue to complete a to do app">
+      <created>1521818720875</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521818720876</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15141000" />
+    <option name="totallyTimeSpent" value="15306000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -392,7 +399,8 @@
     <MESSAGE value="add README.md" />
     <MESSAGE value="add Character method" />
     <MESSAGE value="placeholder" />
-    <option name="LAST_COMMIT_MESSAGE" value="placeholder" />
+    <MESSAGE value="learn webpack + vue to complete a to do app" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn webpack + vue to complete a to do app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -484,8 +492,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="378">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
           <folding />
         </state>
       </provider>
