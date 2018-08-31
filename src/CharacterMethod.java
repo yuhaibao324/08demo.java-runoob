@@ -1,5 +1,3 @@
-import java.util.Calendar;
-
 /**
  * @author allenwhm
  * @date 2018/3/21 23:41
@@ -22,6 +20,6 @@ public class CharacterMethod {
         char a = 68;
         System.out.println(a); //D, 65 is A, 97 is a
         System.out.println(Character.isUpperCase(68));
-        System.out.println((char)65); //A
+        System.out.println((char) 65); //A
     }
 }
