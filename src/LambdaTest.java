@@ -1,5 +1,3 @@
-package java8;
-
 /**
  * Created by : allenwhm
  * DateTime : 2018-08-31 22:57
